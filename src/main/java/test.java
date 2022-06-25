@@ -6,5 +6,6 @@ public class test {
     public void print(){
         String s= null;
         System.out.println(s.length());
+      //  String a = "test";
     }
 }
